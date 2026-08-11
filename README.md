@@ -1,87 +1,83 @@
-# Modulaufgabe 1 – Visual Design M1
+# UI/UX Design – Modulaufgaben
 
-## Projekt
+## Über dieses Repository
 
-Diese Arbeit entstand im Rahmen einer **Weiterbildung mit dem Schwerpunkt UI/UX Design an der OfG – Online Schule für Gestaltung**.
+Dieses Repository dokumentiert meine Arbeiten und Projekte im Rahmen einer **Weiterbildung mit dem Schwerpunkt UI/UX Design an der OfG – Online Schule für Gestaltung**.
 
-Die vorliegende Arbeit ist die **Modulaufgabe 1 – Visual Design M1** und beschäftigt sich mit der Konzeption und Gestaltung eines visuellen **Carousel Posts**.
+Die einzelnen Modulaufgaben begleiten den gesamten Lernprozess und behandeln unterschiedliche Bereiche der visuellen Gestaltung, User Interface Design und User Experience.
 
-Ziel der Aufgabe war es, ein ausgewähltes Thema visuell aufzubereiten, Informationen verständlich zu strukturieren und ein konsistentes Gestaltungskonzept über mehrere Screens hinweg zu entwickeln.
+Ziel ist es, die entstandenen Arbeiten, Gestaltungskonzepte und dazugehörigen Dokumentationen strukturiert festzuhalten und den Entwicklungsprozess nachvollziehbar zu machen.
 
-## Aufgabenstellung
+## Weiterbildung
 
-Im Rahmen der Aufgabe wurden mindestens **fünf zusammenhängende Screens** für einen Carousel Post gestaltet.
+**Bildungseinrichtung:** OfG – Online Schule für Gestaltung
+**Schwerpunkt:** UI/UX Design
+**Art:** Weiterbildung
 
-Der erste Screen dient als **Cover bzw. Titelbild**. Die folgenden Screens vermitteln relevante Informationen, Fakten, Funktionen oder Vorteile zum gewählten Thema. Der letzte Screen stellt einen deutlichen Abschluss dar und verweist auf die präsentierte Schriftart bzw. SaaS-Anwendung inklusive URL.
+## Modulaufgaben
 
-### Themenwahl
+Die einzelnen Aufgaben werden nach Modulen und Projekten strukturiert abgelegt.
 
-Für die Aufgabe konnte zwischen zwei Themenbereichen gewählt werden:
+| Modul          | Thema            | Status        |
+| -------------- | ---------------- | ------------- |
+| Modulaufgabe 1 | Visual Design M1 | Abgeschlossen |
+| Modulaufgabe 2 | –                | –             |
+| Modulaufgabe 3 | –                | –             |
+| Weitere        | –                | –             |
 
-* **Präsentation einer Schriftart**
-* **Präsentation einer SaaS-Anwendung (Software as a Service)**
+Die Übersicht wird im Laufe der Weiterbildung ergänzt.
 
-Bei der Schriftarten-Variante musste eine Schriftart von **Fontshare** ausgewählt werden.
+## Projektstruktur
 
-[Fontshare - Lora](https://www.fontshare.com/?q=lora)
+Jede Modulaufgabe erhält einen eigenen Projektordner. Je nach Aufgabenstellung können darin Screens, Entwürfe, PDFs und weitere Dokumentationsdateien enthalten sein.
 
-## Gestaltungsziel
+```text
+/
+├── README.md
+│
+└── projects/
+    │
+    ├── modulaufgabe-1-visual-design-m1/
+    │   ├── screens/
+    │   │   └── ...
+    │   │
+    │   ├── gestaltungsbegruendung/
+    │   │    └── ...
+    │   │
+    │   └── modulaufgabe-1.md/
+    │
+    ├── modulaufgabe-2/
+    │   └── ...
+    │
+    ├── modulaufgabe-3/
+    │   └── ...
+    │
+    └── weitere-modulaufgaben/
+        └── ...
+```
 
-Ein wesentlicher Bestandteil der Aufgabe war die Entwicklung einer **einheitlichen visuellen Sprache** für alle Screens.
+## Dokumentation
 
-Dabei wurden unter anderem folgende Aspekte berücksichtigt:
+Je nach Modulaufgabe werden neben den eigentlichen Gestaltungsergebnissen auch zusätzliche Dokumentationen bereitgestellt.
 
-* Typografie und typografische Hierarchie
-* Farbgestaltung
-* Bildsprache
-* Layout und Komposition
-* Informationshierarchie
-* Abstände und visuelle Gewichtung
-* Wiedererkennbarkeit über die einzelnen Screens hinweg
-* Benutzerführung innerhalb des Carousels
+Dazu können beispielsweise gehören:
 
-Die Gestaltung soll nicht nur ästhetisch ansprechend sein, sondern Informationen klar strukturieren und eine intuitive visuelle Orientierung ermöglichen.
+* Gestaltungskonzepte
+* Wireframes
+* UI-Entwürfe
+* Screens und Mockups
+* Designentscheidungen
+* Gestaltungsbegründungen
+* User-Experience-Konzepte
+* Präsentationen und PDFs
 
-## Ergebnis
+## Ziel des Repositories
 
-Das Ergebnis ist ein **Carousel Post mit mindestens fünf Screens** im quadratischen Format.
+Das Repository dient als fortlaufende Dokumentation meiner fachlichen und gestalterischen Entwicklung während der Weiterbildung.
 
-Die einzelnen Screens bilden eine zusammenhängende visuelle Einheit und führen die Betrachter:innen Schritt für Schritt durch das gewählte Thema – vom Einstieg über die Informationsvermittlung bis zum abschließenden Verweis auf die präsentierte Schriftart bzw. Anwendung.
+Neben der Präsentation fertiger Ergebnisse steht dabei auch der **Entwicklungsprozess** im Mittelpunkt – von der Aufgabenstellung über die Konzeption und Gestaltung bis hin zur finalen Ausarbeitung.
 
-### Format
-
-| Eigenschaft         | Vorgabe                            |
-| ------------------- | ---------------------------------- |
-| Weiterbildung       | UI/UX Design                       |
-| Bildungseinrichtung | OfG – Online Schule für Gestaltung |
-| Modul               | Visual Design M1                   |
-| Aufgabe             | Modulaufgabe 1                     |
-| Anzahl Screens      | mindestens 5                       |
-| Format              | 1.080 × 1.080 px                   |
-| Ausrichtung         | quadratisch                        |
-| Medium              | Carousel Post                      |
-
-## Gestaltungsbegründung
-
-Zusätzlich zum visuellen Ergebnis wurde ein **PDF mit der Gestaltungsbegründung** erstellt.
-
-Darin werden die konzeptionellen und gestalterischen Entscheidungen erläutert. Dazu gehören insbesondere:
-
-* gewünschte Wirkung des Designs
-* Auswahl und Aufbereitung der Inhalte
-* Aufbau und Struktur des Carousels
-* Gestaltung der einzelnen Screens
-* Auswahl von Farben und Typografie
-* Einsatz von Bildern und grafischen Elementen
-* Informationshierarchie
-* Zusammenhang und visuelle Konsistenz der Screens
-
-Die Gestaltungsbegründung dokumentiert den gestalterischen Prozess und macht nachvollziehbar, aus welchen Gründen bestimmte Designentscheidungen getroffen wurden.
-
-## Kontext
+---
 
 **Weiterbildung:** UI/UX Design
-**Schule:** OfG – Online Schule für Gestaltung
-**Modul:** Visual Design M1
-**Aufgabe:** Modulaufgabe 1
-**Schwerpunkt:** Visuelle Gestaltung, Typografie, Layout und Informationsvermittlung
+**OfG – Online Schule für Gestaltung**
