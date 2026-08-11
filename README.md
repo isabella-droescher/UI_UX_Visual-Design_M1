@@ -18,12 +18,12 @@ Ziel ist es, die entstandenen Arbeiten, Gestaltungskonzepte und dazugehörigen D
 
 Die einzelnen Aufgaben werden nach Modulen und Projekten strukturiert abgelegt.
 
-| Modul          | Thema            | Status        |
-| -------------- | ---------------- | ------------- |
-| Modulaufgabe 1 | Visual Design M1 | Abgeschlossen |
-| Modulaufgabe 2 | –                | –             |
-| Modulaufgabe 3 | –                | –             |
-| Weitere        | –                | –             |
+| Modul          | Thema            | Status        | Bewertung   |
+| -------------- | ---------------- | ------------- | ----------- |
+| Modulaufgabe 1 | Visual Design M1 | Abgeschlossen | 100/100     |
+| Modulaufgabe 2 | –                | –             |             |
+| Modulaufgabe 3 | –                | –             |             |
+| Weitere        | –                | –             |             |
 
 Die Übersicht wird im Laufe der Weiterbildung ergänzt.
 
@@ -41,18 +41,18 @@ Jede Modulaufgabe erhält einen eigenen Projektordner. Je nach Aufgabenstellung 
     │   ├── screens/
     │   │   └── ...
     │   │
-    │   ├── gestaltungsbegruendung/
+    │   ├── presentation/
     │   │    └── ...
     │   │
     │   └── modulaufgabe-1.md/
     │
-    ├── modulaufgabe-2/
+    ├── modulaufgabe-2-app-design-m2/
     │   └── ...
     │
-    ├── modulaufgabe-3/
+    ├── modulaufgabe-3-website-design-m3/
     │   └── ...
     │
-    └── weitere-modulaufgaben/
+    └── modulaufgabe-4-user-experience-m4/
         └── ...
 ```
 
