@@ -10,20 +10,21 @@ Ziel ist es, die entstandenen Arbeiten, Gestaltungskonzepte und dazugehörigen D
 
 ## Weiterbildung
 
-**Bildungseinrichtung:** OfG – Online Schule für Gestaltung
-**Schwerpunkt:** UI/UX Design
-**Art:** Weiterbildung
+- **Bildungseinrichtung:** OfG – Online Schule für Gestaltung
+- **Schwerpunkt:** UI/UX Design
+- **Art:** Weiterbildung
+- **Abschluss:** Gepr. UX/UI Designer/in (OfG) [Zertifikat]
 
 ## Modulaufgaben
 
 Die einzelnen Aufgaben werden nach Modulen und Projekten strukturiert abgelegt.
 
-| Modul          | Thema            | Status        | Bewertung   |
-| -------------- | ---------------- | ------------- | ----------- |
-| Modulaufgabe 1 | Visual Design M1 | Abgeschlossen | 100/100     |
-| Modulaufgabe 2 | –                | –             |             |
-| Modulaufgabe 3 | –                | –             |             |
-| Weitere        | –                | –             |             |
+| Modul          | Thema            | Status        | 
+| -------------- | ---------------- | ------------- | 
+| Modulaufgabe 1 | Visual Design M1 | Abgeschlossen |   
+| Modulaufgabe 2 | –                | –             |  
+| Modulaufgabe 3 | –                | –             |            
+| Modulaufgabe 4 | –                | –             |            
 
 Die Übersicht wird im Laufe der Weiterbildung ergänzt.
 
